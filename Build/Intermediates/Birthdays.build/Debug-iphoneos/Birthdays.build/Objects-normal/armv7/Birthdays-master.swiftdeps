@@ -1,0 +1,12 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "5d84365e94e63802fb2f0af0d5fdfd8e"
+inputs: 
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/PeopleListDataProviderProtocol.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/AppDelegate.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/APICommunicator.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/PeopleListViewController.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/Person.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/APICommunicatorProtocol.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/DetailViewController.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/PersonInfo.swift"
+- "/Users/larrynickerson/projects/swift-education/Birthdays_Starter/Birthdays/PeopleListDataProvider.swift"

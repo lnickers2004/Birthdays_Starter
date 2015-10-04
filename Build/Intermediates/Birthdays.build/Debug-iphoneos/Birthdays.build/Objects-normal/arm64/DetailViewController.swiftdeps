@@ -1,0 +1,38 @@
+### Swift dependencies file v0 ###
+provides:
+- "DetailViewController"
+nominals:
+- "C9Birthdays20DetailViewController"
+class-members:
+- "detailDescriptionLabel"
+- "detailItem"
+- "configureView"
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+top-level:
+- "AnyObject"
+- "UILabel"
+- "UIViewController"
+- !private "StringLiteralType"
+member-access:
+- !private "CSo6UIView"
+- "CSo8NSObject"
+- "CSo11UIResponder"
+- !private "CSo7UILabel"
+- "C9Birthdays20DetailViewController"
+- "PSs9AnyObject"
+- !private "Sq"
+- "CSo16UIViewController"
+dynamic-lookup:
+- !private "valueForKey"
+- !private "description"
+cross-module:
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Swift.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/UIKit.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Foundation.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Darwin.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Dispatch.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/ObjectiveC.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreGraphics.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Security.swiftmodule"
+- "/Applications/Xcode6.4/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreImage.swiftmodule"
